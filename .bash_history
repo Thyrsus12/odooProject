@@ -21,3 +21,19 @@ more .gitconfig
 ls
 ls -a
 exit
+cd /opt/odoo/dumps
+cd ..
+git add .
+git commit -am "commit 2"
+git push
+git log
+git status
+git checkout 381130
+ls
+exit
+ls /opt/odoo
+ls -a /opt/odoo
+cd /opt/odoo
+git add .
+sudo code /opt/odoo --user-data-dir="." --no-sandbox
+exit
