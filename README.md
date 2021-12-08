@@ -9,7 +9,6 @@
 6. Eventos
 7. Contactos
 8. Seguridad del sistema
-9. Personaización HTML/CSS
     
 
 ## 1. Sitio Web
